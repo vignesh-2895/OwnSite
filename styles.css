@@ -1,0 +1,27 @@
+/***********************************TAGS**************************************/
+body{
+  background-color:#f4f6ff;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:5%;
+  border-color: grey;
+}
+h1{
+
+  color: #66BFBF;
+}
+h4{
+
+  color: #66BFBF;
+}
+h3:hover{
+
+  color: #66BFBF;
+}
+/*******************************CLASS*****************************************/
+.skills{
+  background-color: blue;
+}
